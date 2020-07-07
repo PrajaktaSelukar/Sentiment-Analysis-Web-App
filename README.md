@@ -32,7 +32,7 @@ Server will start and  you can connect by opening the web browser and connecting
 </p>
 
 <p align="center">
-<img src="https://github.com/PrajaktaSelukar/Sentiment-Analysis-Web-App/blob/master/Flask-sample-1.png" alt="Drawing" style="width:40%;"/>
+<img src="https://github.com/PrajaktaSelukar/Sentiment-Analysis-Web-App/blob/master/Flask-sample-2.png" alt="Drawing" style="width:40%;"/>
 </p>
 
 
