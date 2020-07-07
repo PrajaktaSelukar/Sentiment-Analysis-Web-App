@@ -2,10 +2,6 @@
 
 A flask (Python) Web Interface for sentiment analysis using NLP techniques.
 
-<p align="center">
-<img src="https://github.com/ravi3222/sentiment-analyzer007/blob/master/images/home.PNG" alt="Drawing" style="width:0%;"/>
-</p>
-
 #### Basic Features
 * Remove stop words 
 * Pre-process text (remove punctuation, lower case)
